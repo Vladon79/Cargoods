@@ -1,0 +1,21 @@
+.footer{
+  background-color: #e5e5e5;
+  padding: 30px 0;
+  width: 100%;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.footerSection{
+  width: 1200px;
+  background-color: #DA2D2E;
+  height: 10px;
+}
+
+.button{
+  color: #ffffff;
+  font-size: 13px;
+  border: none;
+  background: none;
+}

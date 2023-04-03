@@ -1,0 +1,44 @@
+@import './src/styles/variables';
+
+.header{
+  display: flex;
+  justify-content: center;
+  padding: 6px 0 55px;
+  width: 100%;
+  background-color: $primaryColor;
+  .headerSection{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px 230px;
+  }
+  p{
+    margin: 0;
+    font-size: 13px;
+    color: #ffffff;
+    font-family: $textFontFamily;
+  }
+
+  .lang{
+    font-size: 13px;
+    color: #ffffff;
+    font-family: $textFontFamily;
+  }
+
+  button{
+    color: #ffffff;
+    font-size: 13px;
+    border: none;
+    background: none;
+
+    &:hover{
+      cursor: pointer;
+    }
+
+  }
+
+}
+
+
+
+

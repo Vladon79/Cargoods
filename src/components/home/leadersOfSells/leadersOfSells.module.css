@@ -1,0 +1,32 @@
+.leadersOfSells{
+  height: 500px;
+  width: 100%;
+  background-color: #c7c5ea;
+  display: flex;
+  justify-content: center;
+}
+
+.h2{
+  margin: 80px 0 30px;
+  font-size: 30px;
+  font-weight: 700;
+  color: #363636;
+  font-family: 'Montserrat',sans-serif;
+}
+
+.leadersOfSellsSection{
+  width: 70%;
+  background-color: #ffffff;
+}
+
+.leadersProductSection{
+  display: flex;
+  justify-content: center;
+}
+
+.product{
+  background-color: aqua;
+  min-height: 300px;
+  border: 1px solid #f5f5f5;
+  width: 20%;
+}

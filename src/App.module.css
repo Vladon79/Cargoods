@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+
+.mainSection{
+  width: 100%;
+  display: flex;
+  z-index: 20;
+  margin-top: -48px;
+  height: 96px;
+  position: relative;
+  margin-bottom: -48px;
+}

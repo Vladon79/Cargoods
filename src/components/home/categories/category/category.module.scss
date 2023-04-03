@@ -1,0 +1,16 @@
+.categoryContainer{
+  display: flex;
+  background-color: aqua;
+  min-height: 300px;
+  width: 30%;
+  border: 1px solid #f5f5f5;
+  justify-content: center;
+  align-items: center;
+
+  h4{
+    color: #fff;
+    font-size: 21px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
